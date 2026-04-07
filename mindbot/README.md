@@ -12,15 +12,11 @@ venv\Scripts\activate
 
 pip install -r requirements.txt
 
-copy .env.example .env
-
 uvicorn app.main:app --reload
 
 # To run Frontend
 cd frontend
 
 npm install
-
-copy .env.example .env
 
 npm run dev
