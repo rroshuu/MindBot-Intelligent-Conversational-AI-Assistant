@@ -14,3 +14,21 @@ backend/data/processed/*
 
 # Docker
 *.log
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Frontend
+node_modules/
+.vite/
+dist/
+
+# Database
+*.db
+
+# OS
+.DS_Store
