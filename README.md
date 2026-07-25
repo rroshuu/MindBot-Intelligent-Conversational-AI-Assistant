@@ -1,5 +1,3 @@
-# MindBot-Intelligent-Conversational-AI-Assistant
-
 # 🚀 MindBot — Intelligent Conversational AI Assistant
 
 ## 📌 Overview
