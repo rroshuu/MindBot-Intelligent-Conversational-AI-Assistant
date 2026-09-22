@@ -1,4 +1,4 @@
-# 🚀 MindBot — Intelligent Conversational AI Assistant
+#  MindBot — Intelligent Conversational AI Assistant
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ Built with a **modern full-stack architecture**, MindBot demonstrates how to des
 
 ---
 
-## ⚡ Key Features
+##  Key Features
 
 ### 🧠 Conversational Intelligence
 
@@ -49,7 +49,7 @@ Built with a **modern full-stack architecture**, MindBot demonstrates how to des
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 MindBot follows a **client-server-agent architecture**:
 
